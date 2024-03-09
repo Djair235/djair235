@@ -13,7 +13,6 @@ Repositório: [GitHub](https://github.com/Djair235/welcome-page)
 ### Change Color Box
 Site: [Visualizar](https://djair235.github.io/Change-Color-Box/)  
 Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
-
 ---
 
 # Linguagens que estou estudando:
