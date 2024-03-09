@@ -1,8 +1,9 @@
 # Olá, Mundo! 👋
 
 <p> Olá, sou Djair, tenho 15 anos, estou no 2º ano do Ensino Médio, 
-com o objetivo de me tornar um engenheiro de software no futuro e viver dessa profissão
-<b> "Um passo de cada vez". </b> 🤙
+com o objetivo de me tornar um engenheiro de software no futuro e viver dessa profissão. 🤙
+<br>
+<b> "Um passo de cada vez". </b>
 </p>
 
 ---
