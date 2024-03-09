@@ -24,6 +24,7 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo"  />
 </div>
+
 ---
 Redes Sociais
-<img> https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white </img>
+
