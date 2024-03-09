@@ -1,12 +1,19 @@
 # Olá Mundo!
 ---
 ## Meus Projetos:
-* [Welcome Page Repository](https://github.com/Djair235/welcome-page)
+* Welcome Page
+  <br>
+  Site: https://djair235.github.io/welcome-page/
+  <br>
+  Repositório: https://github.com/Djair235/welcome-page
+
+  
 * Change Color Box
   <br>
-  Repositório: https://github.com/Djair235/Change-Color-Box
-  <br>
   Site: https://djair235.github.io/Change-Color-Box/
+  <br>
+  Repositório: https://github.com/Djair235/Change-Color-Box
+  
 ---
 # Linguagens que estou estudando:
 <div align="left">
