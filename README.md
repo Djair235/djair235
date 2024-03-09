@@ -1,7 +1,7 @@
 # Olá, Mundo! 👋
 
 <p> Olá, sou Djair, tenho 15 anos, estou no 2º ano do Ensino Médio, 
-com o objetivo de me tornar um engenheiro de software no futuro e viver dessa profissão. 🤙</p>p>
+com o objetivo de me tornar um engenheiro de software no futuro e viver dessa profissão. 🤙</p>
 ---
 
 ## Meus Projetos:
@@ -24,3 +24,6 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo"  />
 </div>
+---
+Redes Sociais
+<img> https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white </img>
