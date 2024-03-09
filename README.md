@@ -27,7 +27,7 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 
 ---
 
-# Contatos
+# Contatos:
 
 <br clear="both">
 
