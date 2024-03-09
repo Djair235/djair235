@@ -26,7 +26,15 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 </div>
 
 ---
-# Redes Sociais
-* Instagram: [Perfil](https://www.instagram.com/djairwxps?igsh=MWZ2MmViYW5iYnZzcg%3D%3D&utm_source=qr)
-* Discord: [Perfil](https://discordapp.com/users/854099855114371132)
+<br clear="both">
+
+<img align="left" height="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  />
+
+###
 
