@@ -2,7 +2,9 @@
 ---
 ## Meus Projetos:
 * [Welcome Page Repository](https://github.com/Djair235/welcome-page)
-* [Change Color Box](https://github.com/Djair235/Change-Color-Box) (Link: https://djair235.github.io/Change-Color-Box/)
+* Change Color Box
+  Repositório: https://github.com/Djair235/Change-Color-Box
+  Site: https://djair235.github.io/Change-Color-Box/
 ---
 # Linguagens que estou estudando:
 <div align="left">
