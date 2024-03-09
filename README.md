@@ -26,5 +26,7 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 </div>
 
 ---
-Redes Sociais
+# Redes Sociais
+* Instagram: [Perfil](https://www.instagram.com/djairwxps?igsh=MWZ2MmViYW5iYnZzcg%3D%3D&utm_source=qr)
+* Discord: [Perfil](https://discordapp.com/users/854099855114371132)
 
