@@ -45,13 +45,13 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 
 <a href="https://discordapp.com/users/854099855114371132" target="_blank">
   <img align="left" height="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  />
-</a>
+</a> <br>
 
-<br clear="both">
+
 
 <a href="https://open.spotify.com/user/uftvplejewz8kh5w5v3r9t6xv?si=wQkgmX79Rk-LIp5FIGSh9g" target="_blank">
   <img align="left" height="" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"  />
 </a>
-<br clear="both">
+
 
 ###
