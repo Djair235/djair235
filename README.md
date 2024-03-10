@@ -52,5 +52,6 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 <a href="https://open.spotify.com/user/uftvplejewz8kh5w5v3r9t6xv?si=wQkgmX79Rk-LIp5FIGSh9g" target="_blank">
   <img align="left" height="" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"  />
 </a>
+<br clear="both">
 
 ###
