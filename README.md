@@ -33,25 +33,14 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 
 # Redes Sociais:
 
-<br clear="both">
-
 <a href="https://www.instagram.com/djairwxps?igsh=MWZ2MmViYW5iYnZzcg%3D%3D&utm_source=qr" target="_blank">
   <img align="left" height="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
 </a>
 
-###
-
-<br clear="both">
-
 <a href="https://discordapp.com/users/854099855114371132" target="_blank">
   <img align="left" height="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  />
-</a> <br>
-
-
+</a>
 
 <a href="https://open.spotify.com/user/uftvplejewz8kh5w5v3r9t6xv?si=wQkgmX79Rk-LIp5FIGSh9g" target="_blank">
   <img align="left" height="" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"  />
 </a>
-
-
-###
