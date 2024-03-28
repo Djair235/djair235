@@ -22,10 +22,10 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 
 # Linguagens que estou estudando:
 
-- ![HTML5 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
-- ![CSS3 Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-- ![PHP Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-- ![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 Logo" /> 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 Logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP Logo" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" />
 
 ---
 
