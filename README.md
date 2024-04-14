@@ -18,6 +18,10 @@ Repositório: [GitHub](https://github.com/Djair235/welcome-page)
 Site: [Visualizar](https://djair235.github.io/Change-Color-Box/)  
 Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
 
+### Certificados CursoEmVideo
+Site: [Visualizar](https://djair235.github.io/Certficados-CursoEmVideo/)  
+Repositório: [GitHub](https://github.com/Djair235/Certficados-CursoEmVideo)
+
 ---
 
 # Linguagens que estou estudando:
