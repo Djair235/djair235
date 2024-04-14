@@ -10,6 +10,10 @@ com o objetivo de me tornar um engenheiro de software no futuro e viver dessa pr
 
 ## Meus Projetos:
 
+### Certificados CursoEmVideo
+Site: [Visualizar](https://djair235.github.io/Certficados-CursoEmVideo/)  
+Repositório: [GitHub](https://github.com/Djair235/Certficados-CursoEmVideo)
+
 ### Welcome Page
 Site: [Visualizar](https://djair235.github.io/welcome-page/) <br>
 Repositório: [GitHub](https://github.com/Djair235/welcome-page)
@@ -17,10 +21,6 @@ Repositório: [GitHub](https://github.com/Djair235/welcome-page)
 ### Change Color Box
 Site: [Visualizar](https://djair235.github.io/Change-Color-Box/)  
 Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
-
-### Certificados CursoEmVideo
-Site: [Visualizar](https://djair235.github.io/Certficados-CursoEmVideo/)  
-Repositório: [GitHub](https://github.com/Djair235/Certficados-CursoEmVideo)
 
 ---
 
