@@ -10,7 +10,7 @@ com o objetivo de me tornar um engenheiro de software no futuro e viver dessa pr
 
 ## Meus Projetos:
 
-### Certificados CursoEmVideo
+### Certificados Curso Em Vídeo
 Site: [Visualizar](https://djair235.github.io/Certficados-CursoEmVideo/)  
 Repositório: [GitHub](https://github.com/Djair235/Certficados-CursoEmVideo)
 
