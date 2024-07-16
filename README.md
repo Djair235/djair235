@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋
+# Hello World 👋
 
 <p> Olá, sou Djair, tenho 16 anos, estou no 2º ano do Ensino Médio, 
 com o objetivo de me tornar um engenheiro de software no futuro e viver dessa profissão. 🤙
