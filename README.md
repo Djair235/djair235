@@ -1,6 +1,6 @@
 # Hello World 👋
 
-<p> Olá, sou djair, tenho 16 anos, estou no 2º ano do Ensino Médio, com o objetivo de, no futuro, me tornar um engenheiro de software e viver dessa profissão. 🤙
+<p> Olá, sou djair, tenho 16 anos, estou no 2º ano do Ensino Médio, com o objetivo de, no futuro, me tornar um engenheiro de software e poder viver dessa profissão. 🤙
 <br>
 <b></b>
 </p>
