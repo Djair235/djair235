@@ -1,6 +1,6 @@
 # Hello World 👋
 
-<p> Olá, sou djair, tenho 16 anos, estou no 3º ano do Ensino Médio, com o objetivo de, no futuro, me tornar um engenheiro de software e poder viver dessa profissão. 🤙
+<p> Olá, sou djair, tenho 17 anos, atualmente cursando Ciênc. da Computação na UECE, com o objetivo de, no futuro, me tornar um programador e poder viver dessa profissão. 🤙
 <br>
 <b></b>
 </p>
