@@ -29,6 +29,7 @@ Repositório: [GitHub](https://github.com/Djair235/Change-Color-Box)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript Logo"  />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="PHP Logo"  />!-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="55" alt="C# Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="55" alt="Next Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="55" alt=".Net Logo" />
 </div>
 
